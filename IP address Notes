@@ -1,0 +1,42 @@
+What is IP address ?
+
+An IP address (Internet Protocol address) is a unique identifier assigned to each device connected to a network that uses the Internet Protocol for communication.
+
+🔹 Types of IP Addresses:
+IPv4 (e.g., 192.168.1.1)
+
+Most commonly used
+
+32-bit address (about 4.3 billion unique addresses)
+
+IPv6 (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334)
+
+Newer standard
+
+128-bit address (trillions of possible addresses)
+
+Created to deal with the shortage of IPv4 addresses
+
+🔹 Two Main Categories:
+Private IP Address:
+
+Used inside a local network (home, office)
+
+Not visible to the internet
+
+Example: 192.168.x.x, 10.x.x.x, 172.16.x.x
+
+Public IP Address:
+
+Assigned by your Internet Service Provider (ISP)
+
+Used to identify your device on the internet
+
+Can be static (fixed) or dynamic (changes over time)
+
+🔹 What It’s Used For:
+Identifies your device on a network
+
+Enables devices to communicate with each other
+
+Required for accessing the internet or other network services
